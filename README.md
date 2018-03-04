@@ -17,3 +17,5 @@ cd docker-compose-for-wordpress
 ```
 sudo docker-compose up -d
 ```
+
+## Open `http://localhost:8888` in a web browser
